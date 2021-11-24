@@ -1,0 +1,19 @@
+{
+  "name": "tutorials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhadmus/amen-bot.git"
+  },
+  "author": "Amen and Bhadmus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhadmus/amen-bot/issues"
+  },
+  "homepage": "https://github.com/bhadmus/amen-bot#readme"
+}
