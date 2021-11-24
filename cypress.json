@@ -1,0 +1,6 @@
+{
+    "viewportHeight": 900,
+    "viewportWidth": 1400,
+    "baseUrl": "http://demo.seleniumeasy.com",
+    "defaultCommandTimeout": 30000
+}

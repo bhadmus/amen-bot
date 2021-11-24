@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bhadmus/amen-bot/issues"
   },
-  "homepage": "https://github.com/bhadmus/amen-bot#readme"
+  "homepage": "https://github.com/bhadmus/amen-bot#readme",
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  }
 }
