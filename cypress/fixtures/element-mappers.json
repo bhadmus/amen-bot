@@ -2,7 +2,8 @@
     "banner": "#at-cv-lightbox-close",
     "inputFormDropDown": "#navbar-brand-centered .navbar-nav:nth-of-type(1) .dropdown:nth-of-type(1) [data-toggle]",
     "jQueryOption": ".dropdown-menu>li:nth-of-type(7)",
-    "pageDown": "bottom",
+    "bottom": "bottom",
+    "top": "top",
     "languageDropdown": "#files",
     "java": "Java"
 }
