@@ -15,6 +15,8 @@
 
 // Import commands.js using ES2015 syntax:
 import './commands'
+import './PageObjects/customCommands'
+import './PageObjects/datePicker'
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')

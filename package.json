@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bhadmus/amen-bot#readme",
   "devDependencies": {
-    "cypress": "^9.0.0"
+    "cypress": "^9.0.0",
+    "cypress-fill-command": "^1.0.2"
   }
 }
