@@ -5,5 +5,11 @@
     "bottom": "bottom",
     "top": "top",
     "languageDropdown": "#files",
-    "java": "Java"
+    "java": "Java",
+    "datePickerDropDown":"#navbar-brand-centered .navbar-nav:nth-of-type(1) .dropdown:nth-of-type(2) [data-toggle]",
+    "bootStrapDatePicker": "#navbar-brand-centered [href='\\.\/bootstrap-date-picker-demo\\.html']", 
+    "startDateField": "div#datepicker > input:nth-of-type(1)",
+    "startDate": "tr:nth-of-type(3) > td:nth-of-type(4)",
+    "endDateField": "div#datepicker > input:nth-of-type(2)",
+    "endDate": "tr:nth-of-type(4) > td:nth-of-type(4)"
 }
